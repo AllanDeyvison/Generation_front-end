@@ -41,7 +41,7 @@
 
 #menu li a {
     text-decoration: none;
-    color: gold;
+    color: #ffa801;
 }
 #menu li a:hover{
     color: red;
@@ -63,6 +63,14 @@
     border-radius: 50%;
     width: 300px;
     height: 300px;
+}
+
+.kill{
+    text-decoration: none;
+}
+.kill :hover{
+    color:gold;
+    
 }
 
 /*Estilos da página contato.html*/
