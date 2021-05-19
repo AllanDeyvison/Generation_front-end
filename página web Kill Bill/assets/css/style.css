@@ -1,0 +1,48 @@
+/*Estilos da página idex.html*/
+
+.center{
+    text-align: center;
+}
+
+.yellow{
+    color: yellow;
+}
+
+.container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+#menu li{
+    display: inline;
+    padding: 30px;
+    font-size: 20pt;
+   
+}
+
+#menu li a {
+    text-decoration: none;
+    color: gold;
+}
+#menu li a:hover{
+    color: red;
+}
+.p20{
+    padding: 20px;
+}
+
+.tm{
+    width: 20px;
+    height: 20px;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+
+/*Estilos da página contato.html*/
+
+.ml-50{
+    margin-left: 50px;
+}
