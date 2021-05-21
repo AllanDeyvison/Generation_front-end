@@ -65,6 +65,13 @@
     height: 300px;
 }
 
+.mostrar{
+    display: none;
+}
+.foto:hover .mostrar{
+    display: block;
+}
+
 .kill{
     text-decoration: none;
 }
